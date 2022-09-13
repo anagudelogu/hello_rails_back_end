@@ -15,6 +15,9 @@ gem 'puma', '~> 5.0'
 # Linters
 gem 'rubocop', '>= 1.0', '< 2.0'
 
+# Rack CORS [https://github.com/cyu/rack-cors]
+gem 'rack-cors'
+
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 
